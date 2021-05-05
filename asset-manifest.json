@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/quick-meals-app/static/css/main.3cc1c499.chunk.css",
+    "main.js": "/quick-meals-app/static/js/main.e389f3f0.chunk.js",
+    "main.js.map": "/quick-meals-app/static/js/main.e389f3f0.chunk.js.map",
+    "runtime-main.js": "/quick-meals-app/static/js/runtime-main.1afc912b.js",
+    "runtime-main.js.map": "/quick-meals-app/static/js/runtime-main.1afc912b.js.map",
+    "static/js/2.a4319eed.chunk.js": "/quick-meals-app/static/js/2.a4319eed.chunk.js",
+    "static/js/2.a4319eed.chunk.js.map": "/quick-meals-app/static/js/2.a4319eed.chunk.js.map",
+    "index.html": "/quick-meals-app/index.html",
+    "static/css/main.3cc1c499.chunk.css.map": "/quick-meals-app/static/css/main.3cc1c499.chunk.css.map",
+    "static/js/2.a4319eed.chunk.js.LICENSE.txt": "/quick-meals-app/static/js/2.a4319eed.chunk.js.LICENSE.txt",
+    "static/media/meals.8043b069.jpg": "/quick-meals-app/static/media/meals.8043b069.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1afc912b.js",
+    "static/js/2.a4319eed.chunk.js",
+    "static/css/main.3cc1c499.chunk.css",
+    "static/js/main.e389f3f0.chunk.js"
+  ]
+}
